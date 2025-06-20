@@ -3,6 +3,7 @@
 ## About the Challenge
 
 We’re provided with a [challenge4.txt](https://projectblack.io/ctf/challenge4.txt) file from the Project Black website. Upon inspection, it's clearly **encoded**, and our goal is to decode and analyze its contents.
+
 ![image](https://github.com/user-attachments/assets/a3f95a9b-b4a4-4845-8f25-d93fb4410a95)
 
 ---
