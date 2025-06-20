@@ -49,7 +49,7 @@ Now that we have a `challenge4.pcap`, we open it using **Wireshark** to investig
 We filter for **HTTP traffic** and start following TCP streams:
 ![image](https://github.com/user-attachments/assets/a0796906-1ea0-419d-b3cb-893eb57787ed))
 
-![image](https://github.com/user-attachments/assets/19792969-36bd-42aa-a89e-3538ff3b3628))
+![image](https://github.com/user-attachments/assets/19792969-36bd-42aa-a89e-3538ff3b3628)
 
 One of the streams hints at a suspicious URL: [`/supersecret`](https://projectblack.io/supersecret)
 
