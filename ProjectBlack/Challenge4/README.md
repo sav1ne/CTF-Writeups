@@ -67,9 +67,9 @@ So we go back to **analyzing more HTTP traffic**, which looks promising because 
 ![image](https://github.com/user-attachments/assets/44740c5e-ebb6-406a-a4a7-8fd56ec9ef0f)
 
 We export all HTTP objects for closer inspection:
-!\[image]\([https://github.com/user-attachments/assets/0026aa30-b6d7-42b4-86f8-a701bb4b864d](https://github.com/user-attachments/assets/0026aa30-b6d7-42b4-86f8-a701bb4b864d))
+![image](https://github.com/user-attachments/assets/0026aa30-b6d7-42b4-86f8-a701bb4b864d)
 
-!\[image]\([https://github.com/user-attachments/assets/f54cb1be-00d8-4a50-9171-792fa207427d](https://github.com/user-attachments/assets/f54cb1be-00d8-4a50-9171-792fa207427d))
+![image](https://github.com/user-attachments/assets/f54cb1be-00d8-4a50-9171-792fa207427d)
 
 Now we begin analyzing individual files.
 
