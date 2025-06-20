@@ -16,7 +16,7 @@ We start by downloading the `.txt` file.
 Then let's use a simple Base64 decode:
 ![image](https://github.com/user-attachments/assets/98046159-4005-4c51-b4b1-f60eb8d095ab)
 
-The result is still not human-readable, but there are some hints of meaningful content.
+The result is still not human-readable, but there are some plaintext.
 
 ---
 
