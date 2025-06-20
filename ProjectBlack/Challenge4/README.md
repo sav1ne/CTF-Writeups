@@ -92,7 +92,7 @@ We suspect that we’re dealing with **RSA encryption**.
 
 ---
 
-## Step 7: RSA Decryption with Python & ChatGPT
+## Step 7: RSA Decryption with Python
 
 With only N, E, and ciphertexts, we’re stuck unless we factor N into p and q — which is very difficult unless N is small. We can try using **ChatGPT** to help build a Python script that brute-forces small RSA keys or decrypts using known values.
 
